@@ -3,7 +3,6 @@ The aim of this project was to create a portolio from scratch using HTML ,CSS an
 
 Index.html contains the main page of the website with all the necessary links. Similarly, portfolio.html serves as the page with bio details and Contact.html contains information required to submit any queries by users.On both Index.html and portfolio.html pages Bootstrap concepts such as grids, rows,columns and components have been properly utilized to make the website responsive on various screen sizes.And finally the nav-bar has been made consistent on each of the three pages.
 
-![Screenshot](Portfolio Screen Shot .png)
-========
+
 ![Portfolio Screenshot] (https://github.com/Rajesh2199/My-Portfolio/blob/master/Portfolio%20Screen%20Shot%20.png)
 
