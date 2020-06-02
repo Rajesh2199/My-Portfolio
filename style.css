@@ -1,0 +1,71 @@
+div{
+    
+    background-image: url(image2.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color:wheat
+}
+
+.navbar-style{
+    background-color:none;
+    font-weight: 700;
+    
+}
+
+
+
+
+.image{
+    
+    height: 250px;
+    width: 250px;
+    
+}
+
+
+footer{
+    text-align: center;
+    font-weight: 1000px;
+    padding: 100px;
+    background-color:none;
+    margin-top: 400px;
+}
+
+
+
+.header-contact{
+    text-align: center;
+    font-style: bold;
+    font-size: 40px;
+    color: lightseagreen;
+    border-style: ridge;
+}
+.margin{
+    border-style:double;
+    
+}
+.container{
+    padding:0;
+    margin-top: 0;
+    margin: 0px;
+    font-size: 20px;
+    
+    
+}
+.contact{
+    
+    font-size: 15px;
+    margin: 5px;
+
+}
+
+
+.btn{
+    margin: 20px;
+    padding: 10px;
+    font-size: 15px;
+    background-color:lightseagreen;
+    
+}
