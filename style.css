@@ -1,9 +1,6 @@
 div{
     
-    background-image: url(image2.jpg);
-    background-position: center;
-    background-repeat:no-repeat;
-    background-size: cover;
+    background-image: url(image2.jpg);       
     background-attachment: fixed;
     color:wheat
 }
@@ -24,13 +21,18 @@ div{
     
 }
 
+.intro{
+    height:10vh;
+}
 
-footer{
+
+.footer{
     text-align: center;
-    font-weight: 1000px;
+    
     padding: 100px;
     background-color:none;
     margin-top: 400px;
+    color:wheat;
 }
 
 
