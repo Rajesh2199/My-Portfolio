@@ -6,4 +6,4 @@ Index.html contains the main page of the website with all the necessary woking l
 
 Screenshot
 
-<img width="720" alt="Portfolio Screen Shot " src="https://user-images.githubusercontent.com/61152071/83594237-f2893600-a51b-11ea-92d1-9748bbd5b2e2.png">
+<img width="2040" alt="Screenshot" src="https://user-images.githubusercontent.com/61152071/83594528-a8548480-a51c-11ea-9479-654b51131c6a.png">
