@@ -1,6 +1,11 @@
+* {
+    background-color: black;
+}
+
+
 div{
     
-    background-image: url(image2.jpg);       
+        
     background-attachment: fixed;
     color:white
 }
@@ -14,6 +19,7 @@ div{
 
 .image{
     
+   
     height: 250px;
     width: 250px;
     
